@@ -82,7 +82,9 @@ VGL is not a blockchain. It is not a DAG. It is a **completely new category** of
 ## Status
 
 📄 **Whitepaper:** incomplete
+
 🚀 **Production Implementation:** Not yet started  
+
 📢 **Seeking:** people who are interested to learn and talk about it
 
 ---
