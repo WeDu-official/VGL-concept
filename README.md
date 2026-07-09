@@ -40,19 +40,8 @@ The answer is simple:
 ---
 
 ## Architecture Overview
-┌─────────────────────────────────────────────────────────────┐
-│ VGL │
-├─────────────────────────────────────────────────────────────┤
-│ G-Node : Autonomous transaction island │
-│ I-Node : Individual user / wallet │
-│ E-Node : Operation processor (inside G-Node) │
-│ PPO : Post-Previous Operation (backup) │
-│ Door : G-Node gateway for cross-node payments │
-│ T-Node : Ephemeral bridge between G-Nodes │
-│ Money Pool : Hash-verified genesis distribution │
-│ WAITING State : Mutual exclusion lock for double-spend │
-│ Double-Check : Independent predecessor verification │
-└────────────────────────────────────────────────────────────┘
+<img width="817" height="390" alt="1000014274" src="https://github.com/user-attachments/assets/56c83357-67b9-4fc6-946d-5e9245f4deba" />
+
 ---
 
 ## Key Innovations
