@@ -48,7 +48,7 @@ The answer is simple:
 
 | Feature | What It Solves | How |
 | :--- | :--- | :--- |
-| **WAITING Handshake** | Double-spending | Local mutual exclusion (TCP 3-way handshake for money) |
+| **WAITING Handshake** | Double-spending | Local mutual exclusion (3-way handshake for money) |
 | **Double-Check Protocol** | Fraud / lying | Receiver independently asks the claimed predecessor for signed confirmation |
 | **T-Nodes** | Cross-G-Node payments | Ephemeral, trustless bridges that dissolve after use |
 | **PPOs** | Node failure | Backup E-Nodes with operation counters for automatic recovery |
